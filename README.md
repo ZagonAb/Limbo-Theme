@@ -2,9 +2,7 @@
 
 - **Una interfaz personalizada para Pegasus Frontend inspirada en el estilo visual del juego LIMBO.**
 
-![screen1](https://github.com/ZagonAb/Limbo-Theme/blob/22924be87b01dc6987363e07c881d7ced560b634/.meta/screnshots/screen1.png)
-
-![screen2](https://github.com/ZagonAb/Limbo-Theme/blob/22924be87b01dc6987363e07c881d7ced560b634/.meta/screnshots/screen2.png)
+![screen](https://github.com/ZagonAb/Limbo-Theme/tree/a889d053d8a03c2276dd370669cb71e242004957/.meta/screnshots)
 
 ## 🎮 Características Principales
 
