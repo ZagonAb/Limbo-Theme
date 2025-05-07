@@ -74,7 +74,7 @@
 
 ## 🛠️ Instalación
 
-[Descarga](https://github.com/ZagonAb/Limbo/archive/refs/heads/main.zip) y extrae el tema a tu [directorio de temas](http://pegasus-frontend.org/docs/user-guide/installing-themes). Luego puede seleccionarlo en el menú de configuración de Pegasus.
+[Descarga](https://github.com/ZagonAb/Limbo-Theme/archive/refs/heads/main.zip) y extrae el tema a tu [directorio de temas](http://pegasus-frontend.org/docs/user-guide/installing-themes). Luego puede seleccionarlo en el menú de configuración de Pegasus.
 
 ## 📜 Licencia
 
