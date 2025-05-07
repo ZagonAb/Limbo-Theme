@@ -4,7 +4,7 @@
 
 ![screen1](https://github.com/ZagonAb/Limbo-Theme/blob/9e051876e25e7069143a9c22d201885c043bca9a/.meta/screnshots/screen1.png)
 
-![screen2](https://github.com/ZagonAb/Limbo-Theme/blob/9e051876e25e7069143a9c22d201885c043bca9a/.meta/screnshots/screen2.png)
+![screen2](https://github.com/ZagonAb/Limbo-Theme/blob/e409c6c9565523f753ad08235adf13d53f0d8a5a/.meta/screnshots/screen2.png)
 
 ## 🎮 Características Principales
 
