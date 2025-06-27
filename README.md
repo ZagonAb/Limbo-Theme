@@ -1,81 +1,81 @@
-# Limbo theme for pegasus frontend
+# Limbo Theme for Pegasus Frontend
 
-- **Una interfaz personalizada para Pegasus Frontend inspirada en el estilo visual del juego LIMBO.**
+- **A custom interface for Pegasus Frontend inspired by the visual style of the game LIMBO.**
 
-![screen](https://github.com/ZagonAb/Limbo-Theme/blob/a889d053d8a03c2276dd370669cb71e242004957/.meta/screnshots/screen.png)
+![screen0](https://github.com/ZagonAb/Limbo-Theme/blob/a889d053d8a03c2276dd370669cb71e242004957/.meta/screnshots/screen.png)
 
-## 🎮 Características Principales
+## 🎮 Key Features
 
 ### Home Gallery
-- Exhibe los últimos 15 juegos en un estilo monocromático
-- Muestra los juegos jugados en los últimos 7 días (mínimo 1 minuto de juego)
-- Se complementa con títulos de api.allGames si no hay suficientes juegos recientes
-- Información detallada por juego:
-  - Título
+- Displays the last 15 games in a monochromatic style
+- Shows games played in the last 7 days (minimum 1 minute of playtime)
+- Complements with titles from api.allGames if there aren't enough recent games
+- Detailed game information:
+  - Title
   - Rating
-  - Número de jugadores
-  - Última vez jugado
-  - Tiempo de juego
-  - Colección (shortname)
-  - Descripción con AutoScroll
-- Indicadores de página para navegación
-- Opciones para lanzar juegos y gestionar favoritos
+  - Number of players
+  - Last played
+  - Playtime
+  - Collection (shortname)
+  - Description with AutoScroll
+- Page indicators for navigation
+- Options to launch games and manage favorites
 
-### Navegación Superior
+### Top Navigation
 
 1. **Collections**
-   - Lista de colecciones disponibles
-   - GridView de juegos por colección
-   - Identificador visual por colección
-   - Capacidad para lanzar cualquier juego directamente
-   - Gestión de favoritos
-   - Etiqueta especial para juegos favoritos
+   - List of available collections
+   - GridView of games by collection
+   - Visual identifier by collection
+   - Ability to launch any game directly
+   - Favorite management
+   - Special label for favorite games
 
 2. **All Games**
-   - Catálogo completo de juegos
-   - Identificador visual de colección
-   - Lanzamiento directo de cualquier título
-   - Gestión de favoritos
+   - Complete game catalog
+   - Visual collection identifier
+   - Direct launch for any title
+   - Favorite management
 
 3. **Random Games**
-   - Selección aleatoria de 10 títulos
-   - Lanzamiento directo de juegos
-   - Sin filtros específicos
+   - Random selection of 10 titles
+   - Direct game launch
+   - No specific filters
 
 4. **Resume**
-   - Historial completo de juegos jugados
-   - Lanzamiento directo de títulos
-   - Gestión de favoritos
+   - Complete history of played games
+   - Direct title launch
+   - Favorite management
 
 5. **Favorites**
-   - Colección de juegos favoritos
-   - Lanzamiento directo de juegos favoritos
-   - Opción para eliminar de favoritos
+   - Collection of favorite games
+   - Direct launch of favorite games
+   - Option to remove from favorites
 
-## 🎨 Efectos Visuales
+## 🎨 Visual Effects
 
-### Estilo LIMBO
+### LIMBO Style
 - Dark theme
-- flicker effect
-- noise effect
+- Flicker effect
+- Noise effect
 - Desaturation/monochrome in images
 
-### Consideraciones Técnicas
-- Uso intensivo de ShaderEffect para efectos visuales
-- ⚠️ **Nota sobre Rendimiento**: Los efectos shader pueden impactar en el consumo de recursos
+### Technical Considerations
+- Intensive use of ShaderEffect for visual effects
+- ⚠️ **Performance Note**: Shader effects may impact resource usage
 
-### Elementos de Interfaz
-- Botones con efecto de parpadeo al activarse
-- Indicador dinámico de Favorite (-/+)
-- Sistema de navegación visual intuitivo
+### Interface Elements
+- Buttons with flicker effect when activated
+- Dynamic Favorite indicator (-/+)
+- Intuitive visual navigation system
 
-# Iconos Monochrome de RetroArch:
-- Iconos utilizados en este proyecto de varios colaboradores en [libretro](https://github.com/libretro/retroarch-assets/tree/master/xmb/monochrome/png) bajo la licencia [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.en).
+# Monochrome RetroArch Icons:
+- Icons used in this project from various contributors at [libretro](https://github.com/libretro/retroarch-assets/tree/master/xmb/monochrome/png) under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.en) license.
 
-## 🛠️ Instalación
+## 🛠️ Installation
 
-[Descarga](https://github.com/ZagonAb/Limbo/archive/refs/heads/main.zip) y extrae el tema a tu [directorio de temas](http://pegasus-frontend.org/docs/user-guide/installing-themes). Luego puede seleccionarlo en el menú de configuración de Pegasus.
+[Download](https://github.com/ZagonAb/Limbo/archive/refs/heads/main.zip) and extract the theme to your [themes directory](http://pegasus-frontend.org/docs/user-guide/installing-themes). You can then select it in Pegasus' settings menu.
 
-## 📜 Licencia
+## 📜 License
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"></a>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"></a>
